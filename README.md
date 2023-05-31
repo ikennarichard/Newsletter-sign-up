@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./assets/page_screenshot.PNG)
+![screenshot](.public/assets/page_screenshot.PNG)
 
 
 ### Links

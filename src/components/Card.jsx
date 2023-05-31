@@ -33,7 +33,7 @@ export default function Card() {
   const layout = 
   <main className={styles.wrapper}>
     <picture>
-    <source media="(min-width: 500px)" srcSet="assets/images/illustration-sign-up-desktop.svg" />
+    <source media="(min-width: 900px)" srcSet="assets/images/illustration-sign-up-desktop.svg" />
       <img src="assets/images/illustration-sign-up-mobile.svg" alt="illustration" />
     </picture>
     <section className={styles.details_section}>

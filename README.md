@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ikennarichard/Newsletter-sign-up)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live demo](https://rich-newsletter.netlify.app/)
 
 ## My process
 
@@ -53,4 +53,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thanks to all the people at Frontend mentor, anyone thats given me a lesson.
+Thanks to all the people at Frontend mentor and anyone thats given me a lesson.

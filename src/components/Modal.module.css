@@ -27,7 +27,7 @@
   font-weight: bold;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 900px) {
 
   .modal {
     background-color: white;

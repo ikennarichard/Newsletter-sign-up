@@ -1,7 +1,6 @@
 .wrapper {
   display: grid;
   gap: 2em;
-  border: 0.1px solid var(--grey);
   width: 375px;
 }
 
@@ -73,7 +72,7 @@
   justify-content: space-between;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 900px) {
   .wrapper {
     display: flex;
     background-color: white;

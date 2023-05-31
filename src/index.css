@@ -18,7 +18,7 @@
 body {
   display: flex;
   flex-direction: column;
-  place-items: center;
+  align-items: center;
   min-height: 100vh;
   line-height: 1.5;
   font-family: 'Roboto Slab', serif;
@@ -36,7 +36,7 @@ img {
   max-width: 100%;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 900px) {
   body {
     background-color: var(--dark-slate-grey);
     display: grid;

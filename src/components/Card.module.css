@@ -61,7 +61,6 @@
   font-size: 0.3em;
   font-weight: 700;
   color: var(--dark-slate-grey);
-  margin-bottom: -1em;
 }
 
 
@@ -78,20 +77,20 @@
     flex-direction: row-reverse;
     gap: 1px;
     width: fit-content;
+    height: 400px;
     padding: 1em;
     border-radius: 1em;
   }
 
   .wrapper > picture {
-    width: 300px;
+    width: 250px;
   }
 
   .details_section {
     display: flex;
     flex-direction: column;
-    gap: 1em;
     width: 400px;
-    padding-top: 2em;
+    padding-top: 0.6em;
   }
 
   .list_items {
@@ -100,5 +99,10 @@
 
   .list_items > li {
     font-size: 0.9em;
+  }
+
+  .form {
+   margin: 0; 
+   gap: 10px;
   }
 }

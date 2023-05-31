@@ -1,0 +1,47 @@
+.modal {
+  display: flex;
+  flex-direction: column;
+  padding: 2em 1em;
+  gap: 1.5em;
+  align-items: flex-start;
+  justify-items: center;
+  width: 375px;
+}
+
+.modal > h2 {
+  font-size: 2em;
+}
+
+.modal > img {
+  width: 50px;
+  margin-top: 3em;
+}
+
+.modal > button {
+  margin-inline: auto;
+  margin-top: 5em;
+  width: 100%;
+}
+
+.modal span {
+  font-weight: bold;
+}
+
+@media (min-width: 500px) {
+
+  .modal {
+    background-color: white;
+    border-radius: 1em;
+    padding-inline: 2em;
+    gap: 1em;
+  }
+
+  .modal > img {
+    margin: 0;
+  }
+  
+  .modal > button {
+    margin: 0;
+  }
+
+}

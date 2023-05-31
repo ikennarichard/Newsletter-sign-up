@@ -57,12 +57,15 @@
   border: 0.5px solid var(--tomato);
 }
 
-.form > label {
-  font-size: 0.3em;
+.form > div > label {
+  font-size: 0.7em;
   font-weight: 700;
   color: var(--dark-slate-grey);
 }
 
+.form > div > small {
+  font-size: 0.7em;
+}
 
 .labels {
   display: flex;
